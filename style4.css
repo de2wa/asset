@@ -40,6 +40,7 @@ iframe
 	border:none;
 }
 
+
 /* Heading Start */
 
 #heading
@@ -557,6 +558,12 @@ iframe
 	height:2px;
 	margin:20px 0px;
 	background:#DDD;
+	display:inline-block;
+}
+#thevideo .videolistwrap .videowrap .imgbox
+{
+	width:100%;
+	margin-bottom:20px;
 	display:inline-block;
 }
 
